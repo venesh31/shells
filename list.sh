@@ -9,3 +9,4 @@ read note
 echo $date $note  >> ~/grocery.txt
 #displaying grocery.txt
 cat ~/grocery.txt
+#edited by dev
