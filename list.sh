@@ -11,3 +11,4 @@ echo $date $note  >> ~/grocery.txt
 cat ~/grocery.txt
 #edited by dev
 #edited by dev second time
+#third time
