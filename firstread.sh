@@ -1,3 +1,3 @@
-echo "What is your  weight"
+echo "What is your height  weight"
 read a
 echo $a
